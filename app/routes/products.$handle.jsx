@@ -1,3 +1,4 @@
+// This is the code for the product page (you can change styles/HTML as needed to match the form in the instructions)
 import {Suspense} from 'react';
 import {defer, redirect} from '@shopify/remix-oxygen';
 import {Await, Link, useLoaderData} from '@remix-run/react';
